@@ -26,7 +26,7 @@
     <a href="https://www.google.com/" target="_blank" class="follow-link">Link</a>
     `;
 
-    class TestGanttChartWidget extends HTMLElement {
+    class GanttChartWidget extends HTMLElement {
         constructor() {
             super();
             console.log('Constructor called');
@@ -165,5 +165,5 @@ _renderChart() {
 
     }
 
-    customElements.define('gantt-chart-widget', TestGanttChartWidget);
+    customElements.define('gantt-chart-widget', GanttChartWidget);
 })();
