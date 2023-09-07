@@ -1,10 +1,10 @@
 {
-    "name": "TestGanttChartWidget",
-    "description": "Test Gantt Chart Widget (Planifyit)",
-    "newInstancePrefix": "TestGanttChartWidget",
+    "name": "GanttChartWidget",
+    "description": "Gantt Chart Widget (Planifyit)",
+    "newInstancePrefix": "GanttChartWidget",
     "eula": "",
     "license": "Open Source",
-    "id": "TestGanttChartWidget",
+    "id": "GanttChartWidget",
    "version": "1.0.9",
     "icon": "https://oekaki.pl/data/img/oe/2007/04/09/30246/12f53fd2a4d42dda_3.png",
     "vendor": "Askiska",
@@ -12,7 +12,7 @@
         {
             "kind": "main",
             "tag": "gantt-chart-widget",
-            "url": "https://raw.githubusercontent.com/Askiska/GanttSACCustomWidget/2dcc6b8d81225f8898b532841291e598ed7ee862/TestGanttChartWidget.js",
+            "url": "https://raw.githubusercontent.com/Askiska/GanttSACCustomWidget/2dcc6b8d81225f8898b532841291e598ed7ee862/GanttChartWidget.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
