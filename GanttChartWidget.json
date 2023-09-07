@@ -12,7 +12,7 @@
         {
             "kind": "main",
             "tag": "gantt-chart-widget",
-            "url": "https://raw.githubusercontent.com/Askiska/GanttSACCustomWidget/2dcc6b8d81225f8898b532841291e598ed7ee862/GanttChartWidget.js",
+            "url": "https://raw.githubusercontent.com/Askiska/GanttSACCustomWidget/main/GanttChartWidget.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
